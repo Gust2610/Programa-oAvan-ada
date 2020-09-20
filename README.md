@@ -15,7 +15,7 @@ Padrão de Projetos
   • Template Method permite que as subclasses redefinam certos passos de um algoritmo sem alterar a estrutura do próprio algoritmo.
 
 **Structure**
-![](https://miro.medium.com/max/866/1*fyEAfGmdfL9RPiz5ua_HCA.png =250x250)
+<img align="left" width="100" height="100" src="https://miro.medium.com/max/866/1*fyEAfGmdfL9RPiz5ua_HCA.png">
 
 **Participants**
   •	2 participantes – Classe Abstrata(pai) e Classe Concreta(filhos)
