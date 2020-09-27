@@ -34,4 +34,8 @@ Padrão de Projetos
   • Classe Client - Quem utiliza o Singleton. <br />
 
 ### **Sample**
-  •	A SER FEITO. <br />>
+  •	Uma das maiores utilizações do padrão Singleton é deixar a conexão aberta, para assim evitar ficar criando instancias para cada solicitação.
+  •	Fiz um exemplo de uma classe para manter a conexão em banco de dados.
+  •	Utilizei a Variação de Static Block, fazendo a inicialização da instancia após um teste de erro.
+  •	No codigo deixei as explicações de cada passo de implementação.
+  
