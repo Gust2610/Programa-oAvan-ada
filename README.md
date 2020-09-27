@@ -34,8 +34,9 @@ Padrão de Projetos
   • Classe Client - Quem utiliza o Singleton. <br />
 
 ### **Sample**
-  •	Uma das maiores utilizações do padrão Singleton é deixar a conexão aberta, para assim evitar ficar criando instancias para cada solicitação.
-  •	Fiz um exemplo de uma classe para manter a conexão em banco de dados.
-  •	Utilizei a Variação de Static Block, fazendo a inicialização da instancia após um teste de erro.
-  •	No codigo deixei as explicações de cada passo de implementação.
+  •	Uma das maiores utilizações do padrão Singleton é deixar a conexão aberta, para assim evitar ficar criando instancias para cada solicitação.<br />
+  •	Fiz um exemplo de uma classe para manter a conexão em banco de dados.<br />
+  •	Utilizei a Variação de Static Block, fazendo a inicialização da instancia após um teste de erro.<br />
+  •	No codigo deixei as explicações de cada passo de implementação.<br />
+  •	[Codigo feito](https://github.com/Gust2610/ProgramaaoAvancada/blob/Gust2610-patch-SG/Main.java)<br />
   
