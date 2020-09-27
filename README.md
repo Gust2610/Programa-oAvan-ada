@@ -15,7 +15,7 @@ Padrão de Projetos
   • Utilizada em diversas partes do codigo.
 
 ### **Structure** <br />
-<img align="left" width="500" height="300" src="https://programmer.group/images/article/70fb5c64e18617361cd64c4597fac3ed.jpgY"> <br />
+<img align="left" width="500" height="300" src="https://programmer.group/images/article/70fb5c64e18617361cd64c4597fac3ed.jpg"> <br />
 <br />
 <br />
 <br />
