@@ -1,32 +1,19 @@
-Padrão de Projetos
-# *Template Method – 
 ## *Padrão de Projetos* <br />
 ### **Pattern Name and Classification** <br />
-*Template Method* <br />
-  •	Padrão Comportamental <br />
+*Padrão Adapter* <br />
+  •	Padrão Estrutural <br />
 
 ### **Intent e Motivation** <br />
-  •	1. Criar a base do algoritmo(principal) e permite que as subclasses os modifiquem de acordo com suas especialidades. <br />
-  •	2. Baseado em recursos de herança, na qual a sub classe herda todas as caracteristicas da classe pai e se necessário adota algumas particularidades. <br />
-  •	3. Exemplo de Aplicações de Escola(Turma-> 1º Ano, 2º Ano) <br />
+  •	1. Utilização para comunicação entre módulos não compatíveis. <br />
+  •	2. Exemplos de aplicações legado, onde não é possível toda a troca do antigo código e os módulos devem se tornar compatíveis.. <br />
+  •	3. O Padrão Adapter funciona como um intermediador, o client não tem visibilidade desse método. <br />
 
 ### **Applicability** <br />
-  •	O Padrão Template Method define o esqueleto de um algoritmo dentro de um método, transferindo alguns de seus passos para as subclasses
-  • Template Method permite que as subclasses redefinam certos passos de um algoritmo sem alterar a estrutura do próprio algoritmo.
+  •	O Padrão Adapter funciona como um intermediador, o client não tem visibilidade desse método.
 
 ### **Structure** <br />
-<img align="left" width="500" height="500" src="https://miro.medium.com/max/866/1*fyEAfGmdfL9RPiz5ua_HCA.png"> <br />
+<img align="left" width="400" height="300" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Adapter_pattern.png"> <br />
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 <br />
 <br />
 <br />
@@ -39,11 +26,13 @@ Padrão de Projetos
 <br />
 <br />
 ### **Participants** <br />
-  •	2 participantes – Classe Abstrata(pai) e Classe Concreta(filhos) <br />
-  • Classe Abstrata(pai) - Define um esqueleto que será implementado pelas subclasses, contém as caracteristicas gerais do do projeto. <br />
-  • Classe Concreta(filhos) - Define as particularidades de cada subclasses. <br />
+  • O Padrão Adapter funciona como um intermediador, o client não tem visibilidade desse método. <br />
+  • Target: Define a interface que será utilizada através da solicitação do client.. <br />
+  • Client: Usa o objeto da interface target, visibilidade apenas do target. <br />
+  • Adaptee: Interface que precisa ser adaptado.
+  • Adaptee: Interface que precisa ser adaptado.
 
 ### **Sample**
-  •	Projeto de Professor Virtual, no qual o aluno informa a sua turma e a classe lista todas as suas atividades a serem realizadas na semana. <br />
-  •	A classe de Professor Virtual contém as caracteristicas gerais de todas as turmas, como horário para estudar e atividades a serem realizadas. <br />
-  •	As classes das turmas contém as caracteristicas de cada turma, definindo atividades especificas e aumento na carga de estudo semanal. <br />
+  •	Conversor de temperaturas Celsius e Farenheit <br />
+  •	Criamos um adaptar que converte a temperatura Farenheit em Celsius. <br />
+  •	Utilizamos os recursos do padrão Adapter. <br />
