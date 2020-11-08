@@ -19,12 +19,6 @@
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 ### **Participants** <br />
   • O padrão Memento possui 3 participantes
   • Memento: Classe que representa um snapshot, que seria um objeto a ser restaurado em um Originador. <br />
