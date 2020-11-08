@@ -1,18 +1,18 @@
 ## *Padrão de Projetos* <br />
 ### **Pattern Name and Classification** <br />
-*Padrão Adapter* <br />
-  •	Padrão Estrutural <br />
+*Padrão Memento* <br />
+  •	Padrão Comportamental <br />
 
 ### **Intent e Motivation** <br />
-  •	1. Utilização para comunicação entre módulos não compatíveis. <br />
-  •	2. Exemplos de aplicações legado, onde não é possível toda a troca do antigo código e os módulos devem se tornar compatíveis.. <br />
-  •	3. O Padrão Adapter funciona como um intermediador, o client não tem visibilidade desse método. <br />
+  •	1. Permite capturar e externalizar um estado de um objeto. <br />
+  •	2. O objetivo desse padrão é fornecer uma maneira de implementação desse conceito sem quebrar as regras de encapsulamento<br />
+  •	3. É utilizado para programas recupere errs. <br />
 
 ### **Applicability** <br />
-  •	O Padrão Adapter funciona como um intermediador, o client não tem visibilidade desse método.
+  •	O Padrão Adapter permite pegar um estado de objeto e alterar mais tarde.,.
 
 ### **Structure** <br />
-<img align="left" width="400" height="300" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Adapter_pattern.png"> <br />
+<img align="left" width="200" height="100" src="https://miro.medium.com/max/578/0*4WwqboTHnQVFz1FS."> <br />
 
 <br />
 <br />
@@ -26,11 +26,11 @@
 <br />
 <br />
 ### **Participants** <br />
-  • O Padrão Adapter funciona como um intermediador, o client não tem visibilidade desse método. <br />
-  • Target: Define a interface que será utilizada através da solicitação do client.. <br />
-  • Client: Usa o objeto da interface target, visibilidade apenas do target. <br />
-  • Adaptee: Interface que precisa ser adaptado.
-  • Adaptee: Interface que precisa ser adaptado.
+  • O padrão Memento possui 3 participantes
+  • Memento: Classe que representa um snapshot, que seria um objeto a ser restaurado em um Originador. <br />
+  • Originator: Classe na qual o estado atual é mantido. <br />
+  • Caretaker: Responsável por armazenar e restaurar o estado do Originador. <br />
+
 
 ### **Sample**
   •	Conversor de temperaturas Celsius e Farenheit <br />
