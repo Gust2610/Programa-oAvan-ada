@@ -27,6 +27,5 @@
 
 
 ### **Sample**
-  •	Conversor de temperaturas Celsius e Farenheit <br />
-  •	Criamos um adaptar que converte a temperatura Farenheit em Celsius. <br />
-  •	Utilizamos os recursos do padrão Adapter. <br />
+•	[Codigo feito](https://github.com/Gust2610/ProgramaaoAvancada/blob/Gust2610-patch-MM/Memento.class)<br />
+
