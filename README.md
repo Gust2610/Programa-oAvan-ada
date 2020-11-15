@@ -30,4 +30,4 @@
 
 
 ### **Sample**
-•	[Codigo feito](https://github.com/Gust2610/ProgramaaoAvancada/tree/Gust2610-patch-ST/PadraoState)<br />
+•	[Codigo feito](https://github.com/Gust2610/ProgramaaoAvancada/tree/Gust2610-patch-SY/Padr%C3%A3oStrategy)<br />
