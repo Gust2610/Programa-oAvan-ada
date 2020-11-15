@@ -11,12 +11,16 @@
   •	É recomendado para algoritmos com muitas classes e todos com modos diferente de atuação
   
 ### **Structure** <br />
-<img align="left" width="200" height="100" src="https://lh3.googleusercontent.com/proxy/O3bg1ao07Le9Y8Juw0DL5maAPLOnIipBYID-McI9sIBq24REDsqcu-2NCnoHX14gbRp97I-WPbF-PJzQD5sUtI5aZg"> <br />
+<img align="left" width="400" height="200" src="https://lh3.googleusercontent.com/proxy/O3bg1ao07Le9Y8Juw0DL5maAPLOnIipBYID-McI9sIBq24REDsqcu-2NCnoHX14gbRp97I-WPbF-PJzQD5sUtI5aZg"> <br />
 
 <br />
 <br />
 <br />
 <br />
+<br />
+
+<br />
+
 <br />
 ### **Participants** <br />
   • O padrão State possui 3 participantes
