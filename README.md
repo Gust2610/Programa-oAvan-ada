@@ -13,8 +13,11 @@
   
 
 ### **Structure** <br />
-<img align="left" width="200" height="100" src="https://dzone.com/sites/all/files/state_pattern.PNG"> <br />
+<img align="left" width="300" height="150" src="https://dzone.com/sites/all/files/state_pattern.PNG"> <br />
 
+<br />
+
+<br />
 <br />
 <br />
 <br />
