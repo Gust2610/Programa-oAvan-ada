@@ -12,8 +12,10 @@
   •	Fornecer independencia de de como seus produtos são criados, compostos e representados
 
 ### **Structure** <br />
-<img align="left" width="400" height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FAbstract_Factory&psig=AOvVaw2bH2Iw98ZJPBsl4sgIdsXb&ust=1606651734942000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNiNy6Gape0CFQAAAAAdAAAAABAD> <br />
+<img align="left" width="400" height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FAbstract_Factory&psig=AOvVaw2bH2Iw98ZJPBsl4sgIdsXb&ust=1606651734942000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNiNy6Gape0CFQAAAAAdAAAAABAv">
 
+<br />
+<br />
 <br />
 <br />
 <br />
