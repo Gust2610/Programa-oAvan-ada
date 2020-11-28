@@ -33,5 +33,5 @@
   
 
 ### **Sample**
-•	[Codigo feito](https://github.com/Gust2610/ProgramaaoAvancada/blob/Gust2610-patch-MM/Memento.class)<br />
+•	[Codigo feito](https://github.com/Gust2610/ProgramaaoAvancada/tree/Gust2610-patch-AF/AbstractFactory)<br />
 
