@@ -12,7 +12,7 @@
   •	Essencial quando o projeto tem uma estrutura de classes complexas com varias dependências entre si.
 
 ### **Structure** <br />
-<img align="left" width="200" height="100" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.devmedia.com.br%2Fcomo-usar-o-pattern-factory-na-plataforma-java-ee%2F32814&psig=AOvVaw071p2qKuz01zWi61t5wQZP&ust=1606651122325000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCj34OYpe0CFQAAAAAdAAAAABAD"> <br />
+<img align="left" width="200" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Factory_Method_UML_class_diagram.png/400px-Factory_Method_UML_class_diagram.png"> <br />
 
 <br />
 <br />
@@ -20,11 +20,11 @@
 <br />
 <br />
 ### **Participants** <br />
-  • O padrão Factory Method possui 4 participantes
-  • Cliente: É quem tem a dependência com iProduct.
-  • Creator: Responsável pela construção e definição do Factory Method
-  • IProduct: Define a interface de objetos que o Factory cria.
-  • ProductA, ProductB,C: Implementa a interface do Product.
+  • O padrão Factory Method possui 4 participantes<br />
+  • Cliente: É quem tem a dependência com iProduct.<br />
+  • Creator: Responsável pela construção e definição do Factory Method<br />
+  • IProduct: Define a interface de objetos que o Factory cria.<br />
+  • ProductA, ProductB,C: Implementa a interface do Product.<br />
   
 
 ### **Sample**
