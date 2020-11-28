@@ -1,18 +1,18 @@
 ## *Padrão de Projetos* <br />
 ### **Pattern Name and Classification** <br />
-*Padrão Factory Method* <br />
+*Padrão Abstract Factory* <br />
   •	Padrão Criacional <br />
 
 ### **Intent e Motivation** <br />
-  •	1. Define uma interface para criação de objetos. <br />
+  •	1. Possui um nível maior de abstração do que o Factory Method. <br />
   •	2. As subclasses são responsaveis pela inicialização e utilização da interface<br />
   •	3. Centralização das dependências em um unico ponto. <br />
 
 ### **Applicability** <br />
-  •	Essencial quando o projeto tem uma estrutura de classes complexas com varias dependências entre si.
+  •	Fornecer independencia de de como seus produtos são criados, compostos e representados
 
 ### **Structure** <br />
-<img align="left" width="400" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Factory_Method_UML_class_diagram.png/400px-Factory_Method_UML_class_diagram.png"> <br />
+<img align="left" width="400" height="200" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FAbstract_Factory&psig=AOvVaw2bH2Iw98ZJPBsl4sgIdsXb&ust=1606651734942000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNiNy6Gape0CFQAAAAAdAAAAABAD> <br />
 
 <br />
 <br />
