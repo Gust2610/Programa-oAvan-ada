@@ -12,8 +12,11 @@
   •	Essencial quando o projeto tem uma estrutura de classes complexas com varias dependências entre si.
 
 ### **Structure** <br />
-<img align="left" width="200" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Factory_Method_UML_class_diagram.png/400px-Factory_Method_UML_class_diagram.png"> <br />
+<img align="left" width="400" height="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Factory_Method_UML_class_diagram.png/400px-Factory_Method_UML_class_diagram.png"> <br />
 
+<br />
+<br />
+<br />
 <br />
 <br />
 <br />
